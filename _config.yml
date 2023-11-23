@@ -9,6 +9,9 @@ title: ~
 
 # Build settings
 
+# Google Analytics
+google_analytics: G-13R4G0XH84
+
 theme: minima
 
 # plugins:
